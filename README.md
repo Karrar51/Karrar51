@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Karrar51
+- 👀 I’m interested in DEP Internship program
+- 🌱 I’m currently learning python language
+- 💞️ I’m looking to collaborate on DEP python programming
+- 😄 Pronouns: he/him
+- ⚡ Studying elelctrical engineering at UET Taxila
